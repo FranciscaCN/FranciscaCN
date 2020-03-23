@@ -1,0 +1,5 @@
+﻿Name:Nwume Francisca
+email: nwumefrancisca@gmail.com
+Slack username: FranciscaCN
+Tracks: Frontend, Design, Coding
+Courses: HTML, CSS, Javascript, Figma, UI/UX
